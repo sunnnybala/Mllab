@@ -1,0 +1,15 @@
+Day,Outlook,Temp,Humidity,Wind,Decision
+1,sunny,85,85,weak,no
+2,sunny,80,90,strong,no
+3,overcast,83,78,weak,yes
+4,rain,70,96,weak,yes
+5,rain,68,80,weak,yes
+6,rain,65,70,strong,no
+7,overcast,64,65,strong,yes
+8,sunny,72,95,weak,no
+9,sunny,69,70,weak,yes
+10,rain,75,80,weak,yes
+11,sunny,75,70,strong,yes
+12,overcast,72,90,strong,yes
+13,overcast,81,75,weak,yes
+14,rain,71,80,strong,no
